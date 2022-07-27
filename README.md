@@ -1,2 +1,2 @@
-# meditation-web-app
-Find meditation sound for your all mood. 
+# meditation-app
+Meditation app tutorial
